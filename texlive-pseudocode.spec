@@ -45,6 +45,7 @@ describing algorithms in a natural manner.
 %doc %{_texmfdistdir}/doc/latex/pseudocode/README
 %doc %{_texmfdistdir}/doc/latex/pseudocode/pseudocode.pdf
 %doc %{_texmfdistdir}/doc/latex/pseudocode/pseudocode.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -55,3 +56,5 @@ describing algorithms in a natural manner.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}

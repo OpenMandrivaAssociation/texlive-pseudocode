@@ -46,3 +46,17 @@ describing algorithms in a natural manner.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20090302-2
++ Revision: 755144
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20090302-1
++ Revision: 719317
+- texlive-pseudocode
+- texlive-pseudocode
+- texlive-pseudocode
+- texlive-pseudocode
+

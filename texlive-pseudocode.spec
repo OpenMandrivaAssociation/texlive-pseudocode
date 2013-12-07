@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-pseudocode
 Version:	20090302
-Release:	2
+Release:	3
 Summary:	LaTeX environment for specifying algorithms in a natural way
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pseudocode

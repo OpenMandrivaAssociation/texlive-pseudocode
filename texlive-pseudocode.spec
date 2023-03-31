@@ -1,6 +1,6 @@
 Name:		texlive-pseudocode
 Version:	54080
-Release:	1
+Release:	2
 Summary:	LaTeX environment for specifying algorithms in a natural way
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pseudocode

@@ -3,7 +3,7 @@ Version:	54080
 Release:	2
 Summary:	LaTeX environment for specifying algorithms in a natural way
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pseudocode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pseudocode
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pseudocode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pseudocode.doc.r%{version}.tar.xz
